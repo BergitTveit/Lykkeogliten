@@ -1,0 +1,12 @@
+{
+  "name": "lykkeogliten",
+  "version": "1.0.0",
+  "description": "![Project Image](assets/Lykke_og_Liten_SS.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
